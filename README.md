@@ -6,7 +6,7 @@ Essa cronômetro foi criado para colocar em prática os conhecimentos em ***REAC
 
 ## :round_pushpin: Link para usar: 
 <div> 
- <a href="https://biscoitodasorte.vercel.app/"><img src="https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white"><a/>
+ <a href="https://cronometro-coral.vercel.app/"><img src="https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white"><a/>
 </div>
 
 ## :round_pushpin: Layout da página: 
